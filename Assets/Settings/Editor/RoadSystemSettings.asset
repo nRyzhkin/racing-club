@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a88dfc42d591448a58a4c760106f56, type: 3}
+  m_Name: RoadSystemSettings
+  m_EditorClassIdentifier: 
+  roadSettings:
+    drawBoundingBoxes: 0
+    useRayCast: 1
+    copyHitNormal: 0
+    newRoadPrefab: {fileID: 1680364267365633509, guid: af2faa56c4c674b8983b31a433ea4d9f,
+      type: 3}
+  intersectionSettings:
+    newIntersectionPrefab: {fileID: 5846371332086142094, guid: c7be7ad8ee39f4415b610ad5b3e50e64,
+      type: 3}
+  drawNavigatorDebug: 0
+  drawNavigatorDebugPoints: 0
+  autoCalculateNavigator: 0
