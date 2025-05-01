@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Editable
-  - Background
+  - Car
+  - ResetDriftCollision
   layers:
   - Default
   - TransparentFX
@@ -15,12 +15,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Car
+  - Road
+  - BrakingGround
+  - Metal
+  - Rubber
+  - FinishZone
   - 
   - 
   - 
